@@ -12,8 +12,8 @@ This is a console-based Student Record Management System developed in the C prog
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/TAUSCP1102_241_2024.git
-   cd TAUSCP1102_241_2024
+   git clone https://github.com/your_username/TAUSCP1102_241_2025.git
+   cd TAUSCP1102_241_2025
    ```
 
 2. Compile the C source file:
@@ -43,4 +43,4 @@ This is a console-based Student Record Management System developed in the C prog
 
 ---
 
-© 2024 Varun Meruga | CLP Project
+© 2025 Varun Meruga | CLP Project
