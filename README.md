@@ -18,12 +18,12 @@ This is a console-based Student Record Management System developed in the C prog
 
 2. Compile the C source file:
    ```bash
-   gcc Student_RMS.C -o student_rms
+   gcc Student_RMS.C -o Student_RMS.C
    ```
 
 3. Run the program:
    ```bash
-   ./student_rms
+   ./Studen_RMS.C
    ```
 
 ## 🎮 Functionality and Usage Guide
