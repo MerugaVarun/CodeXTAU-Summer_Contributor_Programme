@@ -12,7 +12,7 @@ This is a console-based Student Record Management System developed in the C prog
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/TAUSCP1102_241_2025.git
+   git clone https://github.com/MerugaVarun/TAUSCP1102_241_2025.git
    cd TAUSCP1102_241_2025
    ```
 
